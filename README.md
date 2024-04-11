@@ -41,7 +41,7 @@ CUDA_VISIBLE_DEVICES=7 python compress2json.py  --checkpoint /data/yifanli/mycom
 python compress2json.py  --checkpoint /data/yifanli/mycompress/tif_save/0.1checkpoint_best.pth.tar  --data /data/yifanli/mycompress/ddebug  --sf /data/yifanli/ims_compression/jsons
 ```
 
-第一行是通过显卡压缩，第二行五显卡
+第一行是通过显卡压缩，第二行无显卡
 
 - `sf`控制输出json文件所在的文件夹（即压缩产物）
 - `--data`选择要压缩的文件所在的文件夹（里面的图像格式应为tiff，且长宽为2048x788）
