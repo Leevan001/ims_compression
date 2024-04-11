@@ -69,4 +69,9 @@ python decompress2tif.py  --checkpoint /data/yifanli/mycompress/tif_save/0.1chec
 数字越小对应的压缩率越高，但质量下降
 
 权重网盘链接为：
+链接：https://pan.baidu.com/s/1OAaaE7aNK9WUrF49T88PYA 
+提取码：re54
 
+测试数据集为：
+链接：https://pan.baidu.com/s/1DpUOnp0LU-AbdXLs6bHQXQ 
+提取码：qa2s
