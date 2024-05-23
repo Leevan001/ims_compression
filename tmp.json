@@ -1,0 +1,14 @@
+{
+  "name": {
+    "strings": [
+      "string1",
+      "string2"
+    ],
+    "shape": [
+      14,
+      32
+    ],
+    "min_val": 0.0,
+    "max_val": 8896.0
+  }
+}
